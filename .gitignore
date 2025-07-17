@@ -1,0 +1,6 @@
+# Created by pytest automatically.
+# Игнорирование системных директорий
+**/.pytest_cache/   # Кэш тестов Pytest
+**/.venv/           # Виртуальное окружение Python
+**/.vscode/         # Настройки редактора VSCode
+**/__pycache__/     # Кэш байт-кода Python
